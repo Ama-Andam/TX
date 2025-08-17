@@ -19,6 +19,11 @@ The UART transmitter is designed with the following features:
 3. **Data bits**: 8 bits, sent LSB first  
 4. **Stop bit**: High bit signals end of transmission  
 
+### Visual Representation
+Below is a diagram showing how UART converts parallel data into serial transmission:
+
+![UART Transmission ](image.png)
+
 ### Key Components  
 - **Baud Rate Generator** – divides the system clock to create timing ticks  
 - **Shift Register** – holds the 10-bit frame (start + data + stop)  

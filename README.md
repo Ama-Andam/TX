@@ -23,6 +23,8 @@ The UART transmitter is designed with the following features:
 Below is a diagram showing how UART converts parallel data into serial transmission:
 
 ![UART Transmission ](image.png)
+*Image source: [Understanding the UART – Embedded.com](https://www.embedded.com/understanding-the-uart/)*
+
 
 ### Key Components  
 - **Baud Rate Generator** – divides the system clock to create timing ticks  

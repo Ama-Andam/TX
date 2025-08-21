@@ -1,4 +1,4 @@
-// UART TX Testbench
+// UART Tx testbench
 `timescale 1ns/1ps
 module uart_tb;
 

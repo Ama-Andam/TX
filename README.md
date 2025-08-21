@@ -1,4 +1,4 @@
-# UART Transmitter Project  
+# UART Transmitter-Receiver Project  
 
 This project implements a complete **UART (Universal Asynchronous Receiver-Transmitter)** system in Verilog, with both transmitter and receiver modules. The implementation handles parallel-to-serial conversion for transmission and serial-to-parallel conversion for reception following the standard UART protocol.
 
